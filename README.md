@@ -10,3 +10,8 @@ dotnet 9, .NET 9
 > newer and easier version of Task.WhenAll (or Task.WhenAny?)
 
 <https://www.infoworld.com/article/3564993/how-to-use-task-wheneach-in-net-9.html>
+
+## Channel<T> update (Publisher/Subscriber)
+
+<https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/>
+
